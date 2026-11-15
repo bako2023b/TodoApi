@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TodoApi/TodoApi.csproj" />
+  <Project Path="TodoWpf.App/TodoWpf.App.csproj" Id="ff71f4d3-85f2-46d1-a99b-41a6a3b4dae6" />
+</Solution>
